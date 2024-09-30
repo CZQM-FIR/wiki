@@ -2,7 +2,7 @@
 title: Tower Release Agreement
 description: 
 published: true
-date: 2024-09-30T02:56:16.104Z
+date: 2024-09-30T15:42:57.770Z
 tags: policy
 editor: markdown
 dateCreated: 2024-09-30T02:55:26.600Z
